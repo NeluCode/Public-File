@@ -1,0 +1,622 @@
+{
+    "twoRakat":
+    {
+    "steps": [
+        {
+    "title": "Niyat",
+    "hanafi": "1",
+    "image_male": "s1.jpeg",
+    "image_female": "w1.jpeg",
+    "description": "When it’s time for Salah, ensure you have wudu and you are wearing clothing that, at a minimum, covers your awrah. The awrah for men is to cover everything from and including the navel to the knees. Women must cover everything except the hands, feet and face. Find a clean space (like on a prayer mat) and somewhere that won’t cause inconvenience for others.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": []
+        },{
+    "title": "Takbeer Tahrimah",
+    "hanafi": "1",
+    "image_male": "s2.jpeg",
+    "image_female": "w2.jpeg",
+    "description": "Raise your hands up to your earlobes for men, and shoulders for women, whilst saying, Place your right hand over your left, just below the naval. Women should place their hands over their chest.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Say All Akbar while bending down for ruku",
+        "description": "Some description will come here",
+        "arabic":"الله أكبر",
+        "note": "",
+        "transaltion": [
+            {
+                "en":"Allah is greater",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"Allahu Akbar"
+            }]
+    }
+    ]
+} ,{
+    "title": "Qayam",
+    "hanafi": "1",
+    "image_male": "s3.jpeg",
+    "image_female": "w3.jpeg",
+    "description": "Say quietly",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite 'Thana'",
+        "arabic":"سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلاَ إِلَهَ غَيْرُكَ",
+        "note": "Subhaanaka Allaahumma wa bihamdika, wa tabaarakasmuka, wa ta’aalaa jadduka, wa laa ‘ilaaha ghayruka.",
+        "transaltion": [{"en":"Glory and praise be to You, O Allah. Blessed be Your name and exalted be Your majesty, there is none worthy of worship except You.",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Subhaanaka Allaahumma wa bihamdika, wa tabaarakasmuka, wa ta’aalaa jadduka, wa laa ‘ilaaha ghayruka."}]
+        
+    },
+        {
+            "title": "Then recite 'Tawwuz'",
+            "description": "Some description will come here",
+            "arabic":"أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ اَلرَّجِيمِ",
+            "note": "auzu billahi minash shaitan rajeem",
+            "transaltion": [{"en":"I seek Allah’s protection from Satan, the accursed",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"auzu billahi minash shaitan rajeem"}]
+            
+        },
+        {
+            "title": "Then recite 'Tasmiyah'",
+            "description": "Some description will come here",
+            "arabic":"بسم الله الرحمن الرحيم",
+            "note": "",
+            "transaltion": [{"en":"In the name of Allah who is kind and merciful.",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"bismillah hir rahman nir Raheem"}]
+            
+        },
+        {
+            "title": "Then recite 'Surah Fatiha'",
+            "description": "Some description will come here",
+            "arabic":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ ",
+            "note": "Say quietly",
+            "transaltion": [{"en":"Praise be to Allah, the Cherisher and Sustainer of the worlds; Most Gracious, Most Merciful; Master of the Day of Judgment. Thee do we worship, and Thine aid we seek. Show us the straight way, The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"aalameen Ar-Rahmaanir-Raheem Maaliki Yawmid-Deen Iyyaaka na’budu wa lyyaaka nasta’een Ihdinas-Siraatal-Mustaqeem Siraatal-lazeena an’amta ‘alaihim ghayril-maghdoobi ‘alaihim wa lad-daaalleen"}]
+            
+        },
+        {
+            "title": "Then recite 'Surah Ikhlas'",
+            "description": "Some description will come here",
+            "arabic":"بسم الله الرحمن الرحيم قل هوا لله أحد،الله الصمد، لم يلد و لم يولد، و لم يكن له كفوا أحد",
+            "note": "Note After reciting Surh Fatith the people behind the Imama softly say 'Ameen', Note: If one is offering the Prayer Alone, Surah Ikhlas or any other Surah should be recited.",
+            "transaltion": [{"en":"In the name of Allah, the most Gracious, the most Merciful. Say, He is Allah, the One. Allah is Eternal and Absolute. He begets not, nor was He begotten. And there is none co-equal unto Him.",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"Bismillah hir Rahman nir Rahim Qul Huwallahu ahad. Allahussamad. Lam yalid wa lam yu-lad. Wa lam yakun lahu kufuwan ahad."}]
+            
+        }
+    ]
+},{
+    "title": "Fara Yadain - Rising Both Hands",
+    "hanafi": "1",
+    "image_male": "s2.jpeg",
+    "image_female": "w2.jpeg",
+    "description": "Raise your hands up to your earlobes for men, and shoulders for women, whilst saying, Place your right hand over your left, just below the naval. Women should place their hands over their chest.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"الله أكبر",
+        "note": "Note For Shafi",
+        "transaltion": [{"en":"Allah is greater",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahu Akbar"}]
+    }
+    ]
+},{
+    "title": "Ruku",
+    "hanafi": "1",
+    "image_male": "s4.jpeg",
+    "image_female": "w4.jpeg",
+    "description": "Bow down and say ‘Allahu Akbar’ meaning ‘Allah is the Greatest’, placing your hands on your knees, with your back straight. Rest at this position, called Ruku (bowing), and say ‘Subhaana Rabbiy-al-Adheem’ three times at least.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+        "note": "Allahu Akbar (arabic: الله أكبر) is an",
+        "transaltion": [{"en":"Glory be to my Lord Almighty",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Subhana Rabbiyal Adhim"}]
+    }
+    ]
+},{
+    "title": "Qauma - Standing after Ruku",
+    "hanafi": "1",
+    "image_male": "s1.jpeg",
+    "image_female": "w1.jpeg",
+    "description": "Then as you stand up fully straight again say, ‘Sami-Allahu liman hamidaH’ - ‘Allah heard the one who praised Him’. Then say, ‘Rabbana laKal hamd’.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "While riasing your hand, recite",
+        "description": "description will come here",
+        "arabic":"سَمِعَ اللَّهُ لِمَنْ حَمِدَه",
+        "note": "",
+        "transaltion": [{"en":"‘O our Lord, all praise belongs to You’",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Sami’Allahu liman hamidah"}]
+    },{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"رَبَّنَا وَلَكَ الْحَمْد",
+        "note": "Note The congregation behind then Imam will not say ‘Sami-Allahu liman hamidaH’, they will only say 'Rabbana laKal hamd'",
+        
+        "transaltion": [{"en":"‘Our lord, to you be the praise.’",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Rabbana lakal hamd"}]
+    }
+    ]
+},{
+    "title": "First Sajdah",
+    "hanafi": "1",
+    "image_male": "s5.jpeg",
+    "image_female": "s5.jpeg",
+    "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"الله أكبر",
+        "note": "Allahu Akbar (arabic: الله أكبر) is an",
+        
+        "transaltion": [{"en":"Allah is greater",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahu Akbar"}]
+    },{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"سُبْحَانَ رَبِّيَ الأَعْلَى",
+        "note": "Say at least three times, ‘Subhaana Rabbiy-al-Aalaa’",
+        
+        "transaltion": [{"en":"How Perfect is my Lord, the Highest",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Subhana Rabbiyal A’la"}]
+    }]
+},{
+    "title": "Jalsa - Sitting between 2 sajdahs",
+    "hanafi": "1",
+    "image_male": "s6.jpeg",
+    "image_female": "s6.jpeg",
+    "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"الله أكبر",
+        "note": "Allahu Akbar (arabic: الله أكبر) is an",
+        "transaltion": [{"en":"Allah is greater",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahu Akbar"}]
+    }]
+},{
+    "title": "Second Saijdah",
+    "hanafi": "1",
+    "image_male": "s5.jpeg",
+    "image_female": "s5.jpeg",
+    "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "While going down for 2nd Sijda saying",
+        "description": "description will come here",
+        "arabic":"الله أكبر",
+        "note": "",
+        
+        "transaltion": [{"en":"Allah is greater",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahu Akbar"}]
+    },{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"سُبْحَانَ رَبِّيَ الأَعْلَى",
+        "note": "",
+        
+        "transaltion": [{"en":"How Perfect is my Lord, the Highest",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Subhana Rabbiyal A’la"}]
+    }]
+},{
+    "title": "Jalsa Istaraaht - Sitting for rest",
+    "hanafi": "1",
+    "image_male": "s5.jpeg",
+    "image_female": "w5.jpeg",
+    "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        
+        "title": "Rise up from second Sijda saying",
+        "description": "description will come here",
+        "arabic":"الله أكبر",
+        "note": "Allahu Akbar (arabic: الله أكبر) is an",
+        "transaltion": [{"en":"Allah is greater",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahu Akbar"}]
+    }]
+},
+{
+    "title": "Qayyam",
+    "hanafi": "1",
+    "image_male": "s3.jpeg",
+    "image_female": "w3.jpeg",
+    "description": "Say quietly",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [
+        {
+            "title": "Then recite Tashmiyah",
+            "description": "description will come here",
+            "arabic":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيم",
+        "note": "Note After reciting Surh Fatith the people behind the Imama softly say 'Ameen'",
+        "transaltion": [{"en":"Praise be to Allah, the Cherisher and Sustainer of the worlds; Most Gracious, Most Merciful; Master of the Day of Judgment. Thee do we worship, and Thine aid we seek. Show us the straight way, The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"aalameen Ar-Rahmaanir-Raheem Maaliki Yawmid-Deen Iyyaaka na’budu wa lyyaaka nasta’een Ihdinas-Siraatal-Mustaqeem Siraatal-lazeena an’amta ‘alaihim ghayril-maghdoobi ‘alaihim wa lad-daaalleen"}]
+        
+        },
+        {
+            "title": "Then recite Surah Faitha",
+            "description": "description will come here",
+            "arabic":"بسم الله الرحمن الرحيم قل هوا لله أحد،الله الصمد، لم يلد و لم يولد، و لم يكن له كفوا أحد",
+            "note": "Note If one is offering the Prayer Alone, Surah Ikhlas or any other Surah should be recited.",
+            
+            "transaltion": [{"en":"In the name of Allah, the most Gracious, the most Merciful. Say, He is Allah, the One. Allah is Eternal and Absolute. He begets not, nor was He begotten. And there is none co-equal unto Him.",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"Bismillah hir Rahman nir Rahim Qul Huwallahu ahad. Allahussamad. Lam yalid wa lam yu-lad. Wa lam yakun lahu kufuwan ahad."}]
+            
+        }
+    ]
+},{
+    "title": "Rafa Yadain - Rising both Hands",
+    "hanafi": "0",
+    "image_male": "w2.jpeg",
+    "image_female": "w2.jpeg",
+    "description": "Raise your hands up to your earlobes for men, and shoulders for women, whilst saying, Place your right hand over your left, just below the naval. Women should place their hands over their chest.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"الله أكبر",
+        "note": "Note For Shafi",
+        
+        "transaltion": [{"en":"Allah is greater",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahu Akbar"}]
+    }
+    ]
+},{
+    "title": "Ruku",
+    "hanafi": "1",
+    "image_male": "s4.jpeg",
+    "image_female": "w4.jpeg",
+    "description": "Bow down and say ‘Allahu Akbar’ meaning ‘Allah is the Greatest’, placing your hands on your knees, with your back straight. Rest at this position, called Ruku (bowing), and say ‘Subhaana Rabbiy-al-Adheem’ three times at least.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+        "note": "",
+        
+        "transaltion": [{"en":"Glory be to my Lord Almighty",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Subhana Rabbiyal Adhim"}]
+    }
+    ]
+},{
+    "title": "Qauma - Standing After Ruku",
+    "hanafi": "1",
+    "image_male": "s1.jpeg",
+    "image_female": "w1.jpeg",
+    "description": "Then as you stand up fully straight again say, ‘Sami-Allahu liman hamidaH’ - ‘Allah heard the one who praised Him’. Then say, ‘Rabbana laKal hamd’.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "While rising your Hand recite",
+        "description": "description will come here",
+        "arabic":"سَمِعَ اللَّهُ لِمَنْ حَمِدَه",
+        "note": "",
+        
+        "transaltion": [{"en":"‘O our Lord, all praise belongs to You’",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Sami’Allahu liman hamidah"}]
+    },{
+        "title": "While Standing",
+        "description": "description will come here",
+        "arabic":"رَبَّنَا وَلَكَ الْحَمْد",
+        "note": "Note The congregation behind then Imam will not say ‘Sami-Allahu liman hamidaH’, they will only say 'Rabbana laKal hamd'",
+        
+        "transaltion": [{"en":"‘Our lord, to you be the praise.’",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Rabbana lakal hamd"}]
+    }
+    ]
+},{
+    "title": "First Sajdah",
+    "hanafi": "1",
+    "image_male": "s5.jpeg",
+    "image_female": "w5.jpeg",
+    "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"الله أكبر",
+        "note": "",
+        
+        "transaltion": [{"en":"Allah is greater",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahu Akbar"}]
+    },{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"سُبْحَانَ رَبِّيَ الأَعْلَى",
+        "note": "",
+        
+        "transaltion": [{"en":"How Perfect is my Lord, the Highest",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Subhana Rabbiyal A’la"}]
+    }]
+},{
+    "title": "Jalsa - Sitting between 2 Sajdahs",
+    "hanafi": "1",
+    "image_male": "s6.jpeg",
+    "image_female": "w6.jpeg",
+    "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"الله أكبر",
+        "note": "",
+        
+        "transaltion": [{"en":"Allah is greater",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahu Akbar"}]
+    }]
+},{
+    "title": "2nd Sajdah",
+    "hanafi": "1",
+    "image_male": "s5.jpeg",
+    "image_female": "w5.jpeg",
+    "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"الله أكبر",
+        "note": "",
+        
+        "transaltion": [{"en":"Allah is greater",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahu Akbar"}]
+    },{
+        "title": "Then recite",
+        "description": "description will come here",
+        "arabic":"سُبْحَانَ رَبِّيَ الأَعْلَى",
+        "note": "",
+        
+        "transaltion": [{"en":"How Perfect is my Lord, the Highest",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Subhana Rabbiyal A’la"}]
+    }]
+},{
+    "title": "Tashshahud",
+    "hanafi": "1",
+    "image_male": "s7.jpeg",
+    "image_female": "w7.jpeg",
+    "description": "keeping your hands resting on your knees, raise your right index finger while clasping the other fingers of your right hand. Now, recite the second part of the Tashaahud, ‘Ashhadu an laa ilaaha ill-Allahu wa ashhadu anna Muhammadan abduHu wa Rasooluh’.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "Then recite",
+        "description": "come here",
+        "arabic":"التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+        "note": "",
+        
+        "transaltion": [{"en":"",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"At-tahiyyatu Lillahi wa-salawatu wa’t-tayyibat, as-salamu ‘alayka ayyuha’n-Nabiyyu wa rahmat-Allahi wa barakatuhu. As-salamu ‘alayna wa ‘alaa ‘ibad-Illah is-saliheen. ashhadu alla ilaha illallah wa ashhadu anna muhammadan ‘abduhu wa rasuluhu"}]
+    },{
+        "title": "Then recite",
+        "description": "come here",
+        "arabic":"اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+        "note": "",
+        
+        "transaltion": [{"en":"How Perfect is my Lord, the Highest",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Allahumma salli ‘ala Muhammadin Wa ‘ala ali Muhammadin Kama sallaita ‘ala Ibrahima wa ‘ala ali Ibrahima wa barik ‘ala Muhammadin wa ‘ala ali Muhammadin Kama barakta ‘ ala Ibrahima Wa ‘ ala ali Ibrahima Fil a’lamina Innaka hamidun Majid."}]
+    }]
+},{
+    "title": "Salam",
+    "hanafi": "1",
+    "image_male": "s8.jpeg",
+    "image_female": "w8.jpeg",
+    "description": "After recuting dua, face towards the right direction, sight on shoulder and Say",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "",
+        "description": "come here",
+        "arabic":"السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+        "note": "",
+        
+        "transaltion": [{"en":"peace and the mercy of Allah be on you.",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Assalamu alaikum wa rahmatullah"}]
+    }]
+},{
+    "title": "Salam",
+    "hanafi": "1",
+    "image_male": "s9.jpeg",
+    "image_female": "w9.jpeg",
+    "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+    "audio_compelete":"AudioFileWithMarker.mp3",
+    "content": [{
+        "title": "",
+        "description": "come here",
+        "arabic":"السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+        "note": "Note When offering Prayer it is very importent tp make sure that in the first rakaht a big(as in size)..",
+        "transaltion": [{"en":"peace and the mercy of Allah be on you.",
+            "ur":"اللہ بڑا ہے۔",
+            "roman":"Assalamu alaikum wa rahmatullah"}]
+    }]
+}
+
+]
+},
+    "mayatNamaz":{
+        "steps": [{
+        "title": "Salam",
+        "hanafi": "1",
+        "image_male": "s8.jpeg",
+        "image_female": "w8.jpeg",
+        "description": "After recuting dua, face towards the right direction, sight on shoulder and Say",
+        "audio_compelete":"AudioFileWithMarker.mp3",
+        "content": [{
+            "title": "",
+            "description": "come here",
+            "arabic":"السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+            "note": "",
+            
+            "transaltion": [{"en":"peace and the mercy of Allah be on you.",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"Assalamu alaikum wa rahmatullah"}]
+        }]
+    },{
+        "title": "Salam",
+        "hanafi": "1",
+        "image_male": "s9.jpeg",
+        "image_female": "w9.jpeg",
+        "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+        "audio_compelete":"AudioFileWithMarker.mp3",
+        "content": [{
+            "title": "",
+            "description": "come here",
+            "arabic":"السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+            "note": "Note When offering Prayer it is very importent tp make sure that in the first rakaht a big(as in size)..",
+            
+            "transaltion": [{"en":"peace and the mercy of Allah be on you.",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"Assalamu alaikum wa rahmatullah"}]
+        }]
+    }]},
+    "eidNamaz":{
+        "steps": [{
+        "title": "Salam",
+        "hanafi": "1",
+        "image_male": "s8.jpeg",
+        "image_female": "w8.jpeg",
+        "description": "After recuting dua, face towards the right direction, sight on shoulder and Say",
+        "audio_compelete":"AudioFileWithMarker.mp3",
+        "content": [{
+            "title": "",
+            "description": "come here",
+            "arabic":"السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+            "note": "",
+            
+            "transaltion": [{"en":"peace and the mercy of Allah be on you.",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"Assalamu alaikum wa rahmatullah"}]
+        }]
+    },{
+        "title": "Salam",
+        "hanafi": "1",
+        "image_male": "s9.jpeg",
+        "image_female": "w9.jpeg",
+        "description": "Again say ‘Allahu Akbar’ and go down into prostration, which is called Sujood. When prostrating, your forehead, nose, palms of both hands, knees and toes pointing forward should all be touching the floor.",
+        "audio_compelete":"AudioFileWithMarker.mp3",
+        "content": [{
+            "title": "",
+            "description": "come here",
+            "arabic":"السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+            "note": "Note When offering Prayer it is very importent tp make sure that in the first rakaht a big(as in size)..",
+            
+            "transaltion": [{"en":"peace and the mercy of Allah be on you.",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"Assalamu alaikum wa rahmatullah"}]
+        }]
+    }]},
+    "fourRakat":{
+        "steps": [{
+        "title": "Niyat",
+        "hanafi": "1",
+        "image_male": "s1.jpeg",
+        "image_female": "w1.jpeg",
+        "description": "When it’s time for Salah, ensure you have wudu and you are wearing clothing that, at a minimum, covers your awrah. The awrah for men is to cover everything from and including the navel to the knees. Women must cover everything except the hands, feet and face. Find a clean space (like on a prayer mat) and somewhere that won’t cause inconvenience for others.",
+        "audio_compelete":"AudioFileWithMarker.mp3",
+        "content": []
+    },{
+        "title": "Takbeer Tahrimah",
+        "hanafi": "1",
+        "image_male": "s2.jpeg",
+        "image_female": "w2.jpeg",
+        "description": "Raise your hands up to your earlobes for men, and shoulders for women, whilst saying, Place your right hand over your left, just below the naval. Women should place their hands over their chest.",
+        "audio_compelete":"AudioFileWithMarker.mp3",
+        "content": [{
+            "title": "Say All Akbar while bending down for ruku",
+            "description": "Some description will come here",
+            "arabic":"الله أكبر",
+            "note": "",
+            "transaltion": [
+                {
+                    "en":"Allah is greater",
+                    "ur":"اللہ بڑا ہے۔",
+                    "roman":"Allahu Akbar"
+                }]
+        }
+        ]
+    } ,{
+        "title": "Qayam",
+        "hanafi": "1",
+        "image_male": "s3.jpeg",
+        "image_female": "w3.jpeg",
+        "description": "Say quietly",
+        "audio_compelete":"AudioFileWithMarker.mp3",
+        "content": [{
+            "title": "Then recite 'Thana'",
+            "arabic":"سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلاَ إِلَهَ غَيْرُكَ",
+            "note": "Subhaanaka Allaahumma wa bihamdika, wa tabaarakasmuka, wa ta’aalaa jadduka, wa laa ‘ilaaha ghayruka.",
+            "transaltion": [{"en":"Glory and praise be to You, O Allah. Blessed be Your name and exalted be Your majesty, there is none worthy of worship except You.",
+                "ur":"اللہ بڑا ہے۔",
+                "roman":"Subhaanaka Allaahumma wa bihamdika, wa tabaarakasmuka, wa ta’aalaa jadduka, wa laa ‘ilaaha ghayruka."}]
+            
+        },
+            {
+                "title": "Then recite 'Tawwuz'",
+                "description": "Some description will come here",
+                "arabic":"أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ اَلرَّجِيمِ",
+                "note": "auzu billahi minash shaitan rajeem",
+                "transaltion": [{"en":"I seek Allah’s protection from Satan, the accursed",
+                    "ur":"اللہ بڑا ہے۔",
+                    "roman":"auzu billahi minash shaitan rajeem"}]
+                
+            },
+            {
+                "title": "Then recite 'Tasmiyah'",
+                "description": "Some description will come here",
+                "arabic":"بسم الله الرحمن الرحيم",
+                "note": "",
+                "transaltion": [{"en":"In the name of Allah who is kind and merciful.",
+                    "ur":"اللہ بڑا ہے۔",
+                    "roman":"bismillah hir rahman nir Raheem"}]
+                
+            },
+            {
+                "title": "Then recite 'Surah Fatiha'",
+                "description": "Some description will come here",
+                "arabic":"بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ ",
+                "note": "Say quietly",
+                "transaltion": [{"en":"Praise be to Allah, the Cherisher and Sustainer of the worlds; Most Gracious, Most Merciful; Master of the Day of Judgment. Thee do we worship, and Thine aid we seek. Show us the straight way, The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.",
+                    "ur":"اللہ بڑا ہے۔",
+                    "roman":"aalameen Ar-Rahmaanir-Raheem Maaliki Yawmid-Deen Iyyaaka na’budu wa lyyaaka nasta’een Ihdinas-Siraatal-Mustaqeem Siraatal-lazeena an’amta ‘alaihim ghayril-maghdoobi ‘alaihim wa lad-daaalleen"}]
+                
+            },
+            {
+                "title": "Then recite 'Surah Ikhlas'",
+                "description": "Some description will come here",
+                "arabic":"بسم الله الرحمن الرحيم قل هوا لله أحد،الله الصمد، لم يلد و لم يولد، و لم يكن له كفوا أحد",
+                "note": "Note After reciting Surh Fatith the people behind the Imama softly say 'Ameen', Note: If one is offering the Prayer Alone, Surah Ikhlas or any other Surah should be recited.",
+                "transaltion": [{"en":"In the name of Allah, the most Gracious, the most Merciful. Say, He is Allah, the One. Allah is Eternal and Absolute. He begets not, nor was He begotten. And there is none co-equal unto Him.",
+                    "ur":"اللہ بڑا ہے۔",
+                    "roman":"Bismillah hir Rahman nir Rahim Qul Huwallahu ahad. Allahussamad. Lam yalid wa lam yu-lad. Wa lam yakun lahu kufuwan ahad."}]
+                
+            }
+        ]
+    }]
+}
+    }
